@@ -1,5 +1,9 @@
 # Hi there <span style="font-size:24px">👋</span>, I'm <a href="#">Oussama Kamili</a>.
 
+<img src="./imgs/main.png">
+
+<br>
+
 I am a Moroccan student who is seeking to gain more knowledge to feed his interest and passion for software development. I'm currently learning Nodejs so that I can expand my understanding to the back end side of the development and hoping that one day I can achieve my dream by becoming a full-stack web developer
 
 <!--
