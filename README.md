@@ -29,8 +29,10 @@ I am a Moroccan student who is seeking to gain more knowledge to feed his intere
 
 ---
 
+<p float="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=oussamakami&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=oussamakami&hide_border=true&theme=tokyonight" style="float:right;"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=oussamakami&hide_border=true&theme=tokyonight" />
+</p>
 
 ---
 
