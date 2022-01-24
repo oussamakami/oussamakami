@@ -8,20 +8,50 @@ I am a Moroccan student who is seeking to gain more knowledge to feed his intere
 
 ---
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![GIT](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![BootStrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-9a54f2?style=for-the-badge&logo=figma&logoColor=white)
-![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Shell Scripting](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Firefox Developer Edition](https://img.shields.io/badge/Firefox%20dev-0d85fd?style=for-the-badge&logo=firefox&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-453786?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+	<a href="#" title="HTML5">
+		<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+	</a>
+	<a href="#" title="CSS3">
+		<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+	</a>
+	<a href="#" title="JavaScript">
+		<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+	</a>
+  	<a href="#" title="SASS">
+		<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+	</a>
+	<a href="#" title="GIT">
+		<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+	</a>
+	<a href="#" title="BootStrap">
+		<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+	</a>
+	<a href="#" title="jQuery">
+		<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
+	</a>
+	<a href="#" title="NodeJS">
+		<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+	</a>
+	<a href="#" title="Figma">
+		<img src="https://img.shields.io/badge/figma-9a54f2?style=for-the-badge&logo=figma&logoColor=white" />
+	</a>
+	<a href="#" title="Vim">
+		<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" />
+	</a>
+	<a href="#" title="Shell Scripting">
+		<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+	</a>
+	<a href="#" title="Firefox Developer Edition">
+		<img src="https://img.shields.io/badge/Firefox%20dev-0d85fd?style=for-the-badge&logo=firefox&logoColor=white" />
+	</a>
+	<a href="#" title="Ubuntu">
+		<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+	</a>
+	<a href="#" title="Visual Studio Code">
+		<img src="https://img.shields.io/badge/Visual%20Studio%20Code-453786?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+	</a>
+</p>
 
 ---
 
