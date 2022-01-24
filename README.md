@@ -22,6 +22,14 @@ I am a Moroccan student who is seeking to gain more knowledge to feed his intere
 ![Firefox Developer Edition](https://img.shields.io/badge/Firefox%20dev-0d85fd?style=for-the-badge&logo=firefox&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-453786?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+![My Github Contribution Graph](https://activity-graph.herokuapp.com/graph?username=oussamakami&hide_border=true&theme=react-dark)
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=oussamakami&show_icons=true&hide_border=true&theme=tokyonight" />
+
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=oussamakami&hide_border=true&theme=tokyonight" />
 <!--
 **oussamakami/oussamakami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
