@@ -6,11 +6,7 @@
 
 I am a Moroccan student who is seeking to gain more knowledge to feed his interest and passion for software development. I'm currently learning Nodejs so that I can expand my understanding to the back end side of the development and hoping that one day I can achieve my dream by becoming a full-stack web developer
 
----
-
 ## 📫 Get in touch:
-
-<br>
 
 <p align="center">
 	<a href="https://www.facebook.com/oussama.kamili.39/" title="Facebook">
@@ -37,8 +33,6 @@ I am a Moroccan student who is seeking to gain more knowledge to feed his intere
 ---
 
 ## ✨ Skills and Tools:
-
-<br>
 
 <p align="center">
 	<a href="#" title="HTML5">
@@ -84,8 +78,6 @@ I am a Moroccan student who is seeking to gain more knowledge to feed his intere
 		<img src="https://img.shields.io/badge/Visual%20Studio%20Code-453786?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 	</a>
 </p>
-
----
 
 ## 🌱 Contributions Graph:
 
