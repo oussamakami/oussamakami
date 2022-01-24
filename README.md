@@ -8,6 +8,27 @@ I am a Moroccan student who is seeking to gain more knowledge to feed his intere
 
 ---
 
+## 📫 Get in touch:
+
+<br>
+
+<p align="center">
+	<a href="https://www.facebook.com/oussama.kamili.39/" title="Facebook">
+		<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
+	</a>
+	<a href="https://www.instagram.com/oussamakamili/" title="Instagram">
+		<img src="https://img.shields.io/badge/Instagram-df2059?style=for-the-badge&logo=instagram&logoColor=white" />
+	</a>
+	<a href="mailto:oussama.kamili@protonmail.com" title="ProtonMail">
+		<img src="https://img.shields.io/badge/ProtonMail-657ee4?style=for-the-badge&logo=protonmail&logoColor=white" />
+	</a>
+  <a href="mailto:kamili.oussama1@gmail.com" title="Gmail">
+		<img src="https://img.shields.io/badge/Gmail-c5221f?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+</p>
+
+---
+
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=oussamakami&show_icons=true&hide_border=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=oussamakami&hide_border=true&theme=tokyonight" style="float:right;"/>
 
