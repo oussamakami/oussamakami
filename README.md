@@ -25,9 +25,9 @@ I am a Moroccan student who is seeking to gain more knowledge to feed his intere
 
 ---
 
-<p float="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=oussamakami&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=oussamakami&hide_border=true&theme=tokyonight" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=oussamakami&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&icon_color=86b3fd&text_color=636777" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=oussamakami&hide_border=true&theme=tokyonight&background=00000000&dates=636777&currStreakNum=636777&fire=bf91f3" />
 </p>
 
 ---
@@ -81,7 +81,7 @@ I am a Moroccan student who is seeking to gain more knowledge to feed his intere
 
 ## 🌱 Contributions Graph:
 
-![My Github Contribution Graph](https://activity-graph.herokuapp.com/graph?username=oussamakami&hide_border=true&theme=react-dark)
+![My Github Contribution Graph](https://activity-graph.herokuapp.com/graph?username=oussamakami&hide_border=true&line=588ad9&color=7bafff&bg_color=transparent&point=99c1ff)
 
 <!--
 **oussamakami/oussamakami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
