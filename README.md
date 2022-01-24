@@ -1,5 +1,7 @@
 # Hi there <span style="font-size:24px">👋</span>, I'm <a href="#">Oussama Kamili</a>.
 
+I am a Moroccan student who is seeking to gain more knowledge to feed his interest and passion for software development. I'm currently learning Nodejs so that I can expand my understanding to the back end side of the development and hoping that one day I can achieve my dream by becoming a full-stack web developer
+
 <!--
 **oussamakami/oussamakami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
