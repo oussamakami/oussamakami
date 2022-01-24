@@ -8,6 +8,15 @@ I am a Moroccan student who is seeking to gain more knowledge to feed his intere
 
 ---
 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=oussamakami&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=oussamakami&hide_border=true&theme=tokyonight" style="float:right;"/>
+
+---
+
+## ✨ Skills and Tools:
+
+<br>
+
 <p align="center">
 	<a href="#" title="HTML5">
 		<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -55,11 +64,10 @@ I am a Moroccan student who is seeking to gain more knowledge to feed his intere
 
 ---
 
+## 🌱 Contributions Graph:
+
 ![My Github Contribution Graph](https://activity-graph.herokuapp.com/graph?username=oussamakami&hide_border=true&theme=react-dark)
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=oussamakami&show_icons=true&hide_border=true&theme=tokyonight" />
-
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=oussamakami&hide_border=true&theme=tokyonight" />
 <!--
 **oussamakami/oussamakami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
