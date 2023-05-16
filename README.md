@@ -9,10 +9,10 @@ I am a Moroccan student who is seeking to gain more knowledge to feed his intere
 ## 📫 Get in touch:
 
 <p align="center">
-	<a href="https://www.facebook.com/oussama.kamili.39/" title="Facebook">
+<!-- 	<a href="https://www.facebook.com/oussama.kamili.39/" title="Facebook">
 		<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
-	</a>
-	<a href="https://www.instagram.com/oussamakamili/" title="Instagram">
+	</a> -->
+	<a href="https://www.instagram.com/kamilislife/" title="Instagram">
 		<img src="https://img.shields.io/badge/Instagram-df2059?style=for-the-badge&logo=instagram&logoColor=white" />
 	</a>
 	<a href="mailto:oussama.kamili@protonmail.com" title="ProtonMail">
