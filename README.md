@@ -4,7 +4,7 @@
 
 <br>
 
-I am a Moroccan student who is seeking to gain more knowledge to feed his interest and passion for software development. I'm currently learning Nodejs so that I can expand my understanding to the back end side of the development and hoping that one day I can achieve my dream by becoming a full-stack web developer
+I am a Moroccan student who is seeking to gain more knowledge to feed his interest and passion for software development. I'm currently learning "C Language" so that I can expand my understanding to the back end side of the development and hoping that one day I can achieve my dream by becoming a full-stack web developer
 
 ## 📫 Get in touch:
 
@@ -76,6 +76,8 @@ I am a Moroccan student who is seeking to gain more knowledge to feed his intere
 	</a>
 	<a href="#" title="Visual Studio Code">
 		<img src="https://img.shields.io/badge/Visual%20Studio%20Code-453786?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+	<a href="#" title="C Language">
+		<img src="https://img.shields.io/badge/language-%2339457E.svg?style=for-the-badge&logo=c&logoColor=white" />
 	</a>
 </p>
 
