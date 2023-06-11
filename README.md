@@ -83,7 +83,7 @@ I am a Moroccan student who is seeking to gain more knowledge to feed his intere
 
 ## 🌱 Contributions Graph:
 
-![My Github Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=oussamakami&hide_border=true&line=588ad9&color=7bafff&bg_color=transparent&point=99c1ff)
+![My Github Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=oussamakami&hide_border=true&line=588ad9&color=7bafff&bg_color=transparent&point=99c1ff)
 
 <!--
 **oussamakami/oussamakami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
